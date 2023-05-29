@@ -1,7 +1,7 @@
 ![Supported Platforms](https://img.shields.io/badge/supported%20platforms-windows%2C%20linux-blue)
 ![GitHub Commits Since Latest (By Date)](https://img.shields.io/github/commits-since/UmbratheUmbreon/PublicDenpaEngine/latest)
 [![Repo Size](https://img.shields.io/github/repo-size/justAMZ/DenpaEx-Fork)](https://github.com/justAMZ/DenpaEx-Fork)
-[![GitHub Issues](https://img.shields.io/github/issues/justAMZ/DenpaEx-Fork)](https://github.com/UmbratheUmbreon/PublicDenpaEngine/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/justAMZ/DenpaEx-Fork)](https://github.com/justAMZ/DenpaEx-Fork/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/UmbratheUmbreon/PublicDenpaEngine)](https://github.com/UmbratheUmbreon/PublicDenpaEngine/pulls)
 ![GitHub All Downloads](https://img.shields.io/github/downloads/justAMZ/DenpaEx-Fork/total)
 ![GitHub Latest (Including Pre-releases)](https://img.shields.io/github/v/release/UmbratheUmbreon/PublicDenpaEngine?include_prereleases&label=latest%20version)
@@ -19,9 +19,9 @@ DenpaEx Fork is a Friday Night Funkin': Denpa Engine Fork made by justAMZ. It ad
 
 ## DenpaEx "Team"
 
-![justamz]
+![justamz](https://raw.githubusercontent.com/justAMZ/DenpaEx-Fork/master/assets/preload/images/credits/hamza.png)
 
-justAMZ - Creator of DenpaEx Fork
+justAMZ - Creator of DenpaEx fork
 
 ## Denpa Engine Team
 
