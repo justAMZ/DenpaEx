@@ -1,19 +1,23 @@
 ![Supported Platforms](https://img.shields.io/badge/supported%20platforms-windows%2C%20linux-blue)
 ![GitHub Commits Since Latest (By Date)](https://img.shields.io/github/commits-since/UmbratheUmbreon/PublicDenpaEngine/latest)
-[![Repo Size](https://img.shields.io/github/repo-size/UmbratheUmbreon/PublicDenpaEngine)](https://github.com/UmbratheUmbreon/PublicDenpaEngine)
+[![Repo Size](https://img.shields.io/github/repo-size/justAMZ/DenpaEx-Fork)](https://github.com/justAMZ/DenpaEx-Fork)
 [![GitHub Issues](https://img.shields.io/github/issues/UmbratheUmbreon/PublicDenpaEngine)](https://github.com/UmbratheUmbreon/PublicDenpaEngine/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/UmbratheUmbreon/PublicDenpaEngine)](https://github.com/UmbratheUmbreon/PublicDenpaEngine/pulls)
-![GitHub All Downloads](https://img.shields.io/github/downloads/UmbratheUmbreon/PublicDenpaEngine/total)
+![GitHub All Downloads](https://img.shields.io/github/downloads/justAMZ/DenpaEx-Fork/total)
 ![GitHub Latest (Including Pre-releases)](https://img.shields.io/github/v/release/UmbratheUmbreon/PublicDenpaEngine?include_prereleases&label=latest%20version)
 [![Discord](https://img.shields.io/discord/993277169876873326?label=discord)](https://discord.gg/BFaMfmTNaa)
 
-# Friday Night Funkin': "DENPA" Engine
+# Friday Night Funkin': DenpaEx Fork
+
+## WARNING!
+
+ALL CREDIT GOES TO THE DENPA ENGINE DEVELOPERS! THIS FORK ONLY HAS A HANDFUL OF FEATURES THAT WOULDNT BE DONE WITHOUT THEIR HELP IN THE DISCORD SERVER!
 
 ## Synopsis
 
-Denpa Engine is a Friday Night Funkin' engine created by the likes of BlueVapor1234, Toadette8394, YanniZ06, jorge, MemeHoovy, Ziad, and much much more. Being intended to enhance the user experience, improve game performance, and increase the capabilities and efficiency of mod making, Denpa Engine is the most feature ready FNF engine to date. With features ranging from HScript and Lua scripting, to fully fitted editors, the engine is ready to go right out of the box.
+DenpaEx Fork is a Friday Night Funkin': Denpa Engine Fork made by justAMZ. It adds a small amount of extra features on top of normal Denpa Engine, created by the likes of BlueVapor1234, Toadette8394, YanniZ06, jorge, MemeHoovy, Ziad, and much much more. Being intended to enhance the user experience, improve game performance, and increase the capabilities and efficiency of mod making, Denpa Engine (as well as this fork) is the most feature ready FNF engine to date. With features ranging from HScript and Lua scripting, to fully fitted editors, the engine is ready to go right out of the box.
 
-## Denpa Engine Fork
+## DenpaEx "Team"
 
 ![justamz]
 
@@ -121,13 +125,15 @@ This license agreement is subject to change at any time, and continued use of th
 ## Fork Features (Unfinished List!)
 
 1) Dark Mode in MainMenuState.
-2) Cool Freeplay menu :skull:.
+2) Cool Freeplay menu :skull: (coming soon. the freeplay menu is broken a bit i just gotta move the lil mfs to the right).
 3) No Auto lag.
 4) Free Debug mode script in bin/mods/scripts.
 5) Hits counter in ratings.
 6) Custom score text (best shit yall will EVER see :100:).
 7) Custom note density.
 8) Custom max zoom.
+
+(more features coming soon)
 
 ### Anti-Crash Functionality
 
@@ -281,8 +287,6 @@ This license agreement is subject to change at any time, and continued use of th
 - COMMA can be pressed to open a submenu to change sections.
 - CONTROL can be pressed to open a submenu to change modifiers.
 
-![freeplaysection](https://user-images.githubusercontent.com/101066547/222319069-f3b992b1-f520-41e2-9667-08e765f56586.gif)
-
 ### Game-Over Menu
 
 - The dead character, death sound, background music, restart sound, and bpm can all be changed depending on the character.
@@ -304,8 +308,7 @@ This license agreement is subject to change at any time, and continued use of th
 - Flip can be toggled to flip the chart and strums for an extra challenge.
 - Practice Mode can be toggled to disable dying.
 - Botplay can be toggled to make the game play itself.
-
-![modifiers](https://user-images.githubusercontent.com/101066547/222319123-484866f3-99a1-4808-ae72-cdabc73830ab.gif)
+- Quartiz.
 
 ### Lua Support
 
