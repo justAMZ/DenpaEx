@@ -54,11 +54,11 @@ class ClientPrefs {
         "safeFrames" => 10,
         //Strings
 		"resolution" => "1280x720",
-        "uiSkin" => "FNF",
-        "iconAnim" => "Swing",
-        "scoreDisplay" => "Psych",
-        "timeBarType" => "Time Left",
-        "pauseMusic" => "OVERDOSE",
+        "uiSkin" => "Kade",
+        "iconAnim" => "Bop",
+        "scoreDisplay" => "AMZ",
+        "timeBarType" => "Elapsed / Left",
+        "pauseMusic" => "Breakfast",
         "ratingIntensity" => "Default",
         "cutscenes" => "Story Mode Only",
 		//Arrays

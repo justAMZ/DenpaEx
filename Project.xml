@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': DenpaEx Fork" file="DenpaExFork" packageName="com.detean.denpaengine" package="com.deteam.denpaengine" main="Main" version="0.2.8" company="DETeam" />
+	<app title="Friday Night Funkin': DenpaEx Fork" file="DenpaEx" packageName="com.detean.denpaengine" package="com.deteam.denpaengine" main="Main" version="0.2.8" company="DETeam" />
 	<app preloader="flixel.system.FlxPreloader" />
 
 	<haxedef name="LINC_LUA_RELATIVE_DYNAMIC_LIB"/>

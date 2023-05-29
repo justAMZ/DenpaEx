@@ -1,6 +1,11 @@
 {	
 	"data": [
 		{
+			"sprite": "",
+			"textArray": ["Hamza edited", "edited this bitch", "lmaoooooooooo"],
+			"height": 0.5
+		},
+		{
 			"sprite": "bambail",
 			"textArray": ["The good mod", "with stridents", "Bambail Insurgency"],
 			"height": 0.43

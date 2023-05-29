@@ -3,6 +3,12 @@
     "image": "engine",
     "tracks": [
         {
+            "file": "funkyMenu",
+            "name": "Friday Night Funkin' Menu",
+            "rgb": [255, 0, 191],
+            "bpm": 100
+        },
+        {
             "file": "freakyMenu",
             "name": "Menu Song",
             "rgb": [255, 131, 0],
