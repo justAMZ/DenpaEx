@@ -12,6 +12,7 @@
 ## WARNING!
 
 ALL CREDIT GOES TO THE DENPA ENGINE DEVELOPERS! THIS FORK ONLY HAS A HANDFUL OF FEATURES THAT WOULDNT BE DONE WITHOUT THEIR HELP IN THE DISCORD SERVER!
+(also the freeplay menu is a bit fucky lol itll be fixed in 5 days or less)
 
 ## Synopsis
 
