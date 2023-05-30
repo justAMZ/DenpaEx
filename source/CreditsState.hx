@@ -108,8 +108,8 @@ class CreditsState extends MusicBeatState
 
 		//? note to self: add having multiple links and having indicators for link domains in the bottom right
 		creditsStuff = [ //Username - Icon name - Name - Role - Description - Link - BG Color
-			["Engine Editor"],
-			['justAMZ',			'hamza',		"AMZ",		"Creator of DenpaEx Fork",			"\"real :100:\"", 																					'https://youtube.com/@acc0untz0138', 								'408080'],
+			["DenpaEx Team"],
+			['justAMZ',			'hamza',		"AMZ",		"Creator of DenpaEx",				"\real :100:\", 																					'https://youtube.com/@acc0untz0138', 								'408080'],
 			[''],
 			["Denpa Team"],
 			['BlueVapor1234',	'at',			"AT", 		"Main Programmer & Creator", 		"\"What am i doing with my life\"",																	'https://twitter.com/BlueVapor1234', 								'34343C'],

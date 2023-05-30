@@ -7,7 +7,7 @@
 ![GitHub Latest (Including Pre-releases)](https://img.shields.io/github/v/release/UmbratheUmbreon/PublicDenpaEngine?include_prereleases&label=latest%20version)
 [![Discord](https://img.shields.io/discord/993277169876873326?label=discord)](https://discord.gg/BFaMfmTNaa)
 
-# Friday Night Funkin': DenpaEx Fork
+# Friday Night Funkin': DenpaEx
 
 ## WARNING!
 
@@ -16,13 +16,13 @@ ALL CREDIT GOES TO THE DENPA ENGINE DEVELOPERS! THIS FORK ONLY HAS A HANDFUL OF 
 
 ## Synopsis
 
-DenpaEx Fork is a Friday Night Funkin': Denpa Engine Fork made by justAMZ. It adds a small amount of extra features on top of normal Denpa Engine, created by the likes of BlueVapor1234, Toadette8394, YanniZ06, jorge, MemeHoovy, Ziad, and much much more. Being intended to enhance the user experience, improve game performance, and increase the capabilities and efficiency of mod making, Denpa Engine (as well as this fork) is the most feature ready FNF engine to date. With features ranging from HScript and Lua scripting, to fully fitted editors, the engine is ready to go right out of the box.
+DenpaEx is a Friday Night Funkin': Denpa Engine Fork made by justAMZ. It adds a small amount of extra features on top of normal Denpa Engine, created by the likes of BlueVapor1234, Toadette8394, YanniZ06, jorge, MemeHoovy, Ziad, and much much more. Being intended to enhance the user experience, improve game performance, and increase the capabilities and efficiency of mod making, Denpa Engine (as well as this fork) is the most feature ready FNF engine to date. With features ranging from HScript and Lua scripting, to fully fitted editors, the engine is ready to go right out of the box.
 
-## DenpaEx "Team"
+## DenpaEx Team
 
 ![justamz](https://raw.githubusercontent.com/justAMZ/DenpaEx-Fork/master/assets/preload/images/credits/hamza.png)
 
-justAMZ - Creator of DenpaEx fork
+justAMZ - Creator of DenpaEx
 
 ## Denpa Engine Team
 
@@ -61,6 +61,20 @@ Ziad - Multiplayer Support
 ![shygee](https://user-images.githubusercontent.com/101066547/221386726-7822788b-fa38-4b26-b0e3-0aac056198c6.png)
 
 Shygee - Additional Programmer
+
+## Fork Features (Unfinished List!)
+
+1) Dark Mode in MainMenuState.
+2) Cool Freeplay menu :skull:
+3) No Auto lag.
+4) Added back the Friday Night Funkin' background music.
+5) Free Debug mode script in bin/mods/scripts.
+6) Hits counter in ratings.
+7) Custom score text (best shit yall will EVER see :100:).
+8) Custom note density.
+9) Custom max zoom.
+
+(more features coming soon)
 
 ## License Summary
 
@@ -122,20 +136,6 @@ This license agreement is subject to change at any time, and continued use of th
 10) Run any of the batch files in the batch folder of the source code or continue to step 11.
 11) Open command prompt and use the "cd" command to set the current directory to your source code folder.
 12) Type "lime test [your platform here]" and the compile should start.
-
-## Fork Features (Unfinished List!)
-
-1) Dark Mode in MainMenuState.
-2) Cool Freeplay menu :skull:
-3) No Auto lag.
-4) Added back the Friday Night Funkin' background music.
-5) Free Debug mode script in bin/mods/scripts.
-6) Hits counter in ratings.
-7) Custom score text (best shit yall will EVER see :100:).
-8) Custom note density.
-9) Custom max zoom.
-
-(more features coming soon)
 
 ### Anti-Crash Functionality
 
