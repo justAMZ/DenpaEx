@@ -20,7 +20,7 @@ DenpaEx is a Friday Night Funkin': Denpa Engine Fork made by justAMZ. It adds a 
 
 ## DenpaEx Team
 
-![justamz](https://raw.githubusercontent.com/justAMZ/DenpaEx-Fork/master/assets/preload/images/credits/hamza.png)
+![justamz](https://raw.githubusercontent.com/justAMZ/DenpaEx-Fork/master/assets/preload/images/credits/amz.png)
 
 justAMZ - Creator of DenpaEx
 
