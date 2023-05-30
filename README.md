@@ -1,4 +1,4 @@
-![Supported Platforms](https://img.shields.io/badge/supported%20platforms-windows%2C%20linux-blue)
+![Supported Platforms](https://img.shields.io/badge/supported%20platforms-windows-blue)
 ![GitHub Commits Since Latest (By Date)](https://img.shields.io/github/commits-since/UmbratheUmbreon/PublicDenpaEngine/latest)
 [![Repo Size](https://img.shields.io/github/repo-size/justAMZ/DenpaEx-Fork)](https://github.com/justAMZ/DenpaEx-Fork)
 [![GitHub Issues](https://img.shields.io/github/issues/justAMZ/DenpaEx-Fork)](https://github.com/justAMZ/DenpaEx-Fork/issues)
@@ -64,15 +64,16 @@ Shygee - Additional Programmer
 
 ## Fork Features (Unfinished List!)
 
-1) Dark Mode in MainMenuState.
-2) Cool Freeplay menu :skull:
+1) Permanent Dark Mode in MainMenuState.
+2) Cool FreeplayState :skull:
 3) No Auto lag.
 4) Added back the Friday Night Funkin' background music.
-5) Free Debug mode script in bin/mods/scripts.
-6) Hits counter in ratings.
-7) Custom score text (best shit yall will EVER see :100:).
+5) Free Debug Mode script in bin/mods/scripts.
+6) Hits Counter in ratings.
+7) Custom Score Text (best shit yall will EVER see :100:).
 8) Custom note density.
 9) Custom max zoom.
+10) The number 1 popup is replaced to be more noticeable (literally just image replacement lmao).
 
 (more features coming soon)
 
