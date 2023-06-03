@@ -64,16 +64,16 @@ Shygee - Additional Programmer
 ## Fork Features (Unfinished List!)
 
 1) Permanent Dark Mode in MainMenuState.
-2) Cool FreeplayState :skull:
+2) Cool FreeplayState (literally just put the character icon before the song name :skull:).
 3) No Auto lag.
 4) Added back the Friday Night Funkin' background music.
-5) Free Debug Mode script in assets/preload/scripts.
+5) Free Debug Mode script (made by Kevin Kuntz) in assets/preload/scripts.
 6) Hits Counter in ratings.
 7) Custom Score Text (best shit yall will EVER see :100:).
 8) Custom note density.
 9) Custom max zoom.
 10) Custom max BPM.
-11) The number 1 popup is replaced to be more noticeable (literally just image replacement lmao).
+11) The number 1 popup is replaced to be more noticeable (just image replacement lmao).
 
 (more features coming soon)
 
