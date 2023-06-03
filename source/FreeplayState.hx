@@ -161,6 +161,8 @@ class FreeplayState extends MusicBeatState
 		{
 			var songText:Alphabet = new Alphabet(0, (70 * i) + 30, songs[i].songName, true, false);
 			songText.targetY = i;
+			songText.altRotation = true;
+			songText.xAdd = 100;
 			lerpList.push(true);
 			grpSongs.add(songText);
 
