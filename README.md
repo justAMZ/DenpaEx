@@ -73,7 +73,8 @@ Shygee - Additional Programmer
 7) Custom Score Text (best shit yall will EVER see :100:).
 8) Custom note density.
 9) Custom max zoom.
-10) The number 1 popup is replaced to be more noticeable (literally just image replacement lmao).
+10) Custom max BPM.
+11) The number 1 popup is replaced to be more noticeable (literally just image replacement lmao).
 
 (more features coming soon)
 
