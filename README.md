@@ -67,7 +67,7 @@ Shygee - Additional Programmer
 2) Cool FreeplayState :skull:
 3) No Auto lag.
 4) Added back the Friday Night Funkin' background music.
-5) Free Debug Mode script in bin/mods/scripts.
+5) Free Debug Mode script in assets/preload/scripts.
 6) Hits Counter in ratings.
 7) Custom Score Text (best shit yall will EVER see :100:).
 8) Custom note density.
