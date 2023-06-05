@@ -181,7 +181,7 @@ class FreeplayState extends MusicBeatState
 			var icon:HealthIcon = new HealthIcon(songs[i].songCharacter);
 			icon.bopMult = 0.95;
 			icon.sprTracker = songText;
-			icon.trackerOffsets = [-songText.width + -icon.width -10, 0];
+			icon.trackerOffsets = [-songText.width + -icon.width -25, 0];
 
 			iconArray.push(icon);
 			add(icon);
