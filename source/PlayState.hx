@@ -6561,6 +6561,7 @@ class PlayState extends MusicBeatState
 	}
 
 	function camPanRoutine(anim:String = 'singUP', who:String = 'bf'):Void {
+		if (SONG.notes[curSection] == null) return;
 		var fps:Float = Main.fpsCounter.currentFPS;
 		final bfCanPan:Bool = SONG.notes[curSection].mustHitSection;
 		final dadCanPan:Bool = !SONG.notes[curSection].mustHitSection;

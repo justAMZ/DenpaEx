@@ -63,19 +63,26 @@ Shygee - Additional Programmer
 
 ## Fork Features (Unfinished List!)
 
-1) Permanent Dark Mode in MainMenuState.
-2) Cool FreeplayState (literally just put the character icon before the song name :skull:).
-3) No Auto lag.
-4) Added back the Friday Night Funkin' background music.
-5) Free Debug Mode script (made by Kevin Kuntz) in assets/preload/scripts.
-6) Hits Counter in ratings.
-7) Custom Score Text (best shit yall will EVER see :100:).
-8) Custom note density.
-9) Custom max zoom.
-10) Custom max BPM.
-11) The number 1 popup is replaced to be more noticeable (just image replacement lmao).
+1) Custom logo, name and icon.
+2) Permanent Dark Mode in MainMenuState.
+3) Cool FreeplayState (literally just put the character icon before the song name :skull:).
+4) No Auto lag.
+5) Added back the Friday Night Funkin' background music.
+6) Free Debug Mode script (made by Kevin Kuntz) in assets/preload/scripts.
+7) Added blank character ("null", watch out when typing the name as the game can possibly crash because of it).
+8) Hits Counter in ratings.
+9) Custom Score Text (best shit yall will EVER see :100:).
+10) Custom note density.
+11) Custom max zoom.
+12) Custom max BPM.
+13) Better Kade Score Pop-Up.
+14) The number 1 popup is replaced to be more noticeable (just image replacement lmao).
 
 (more features coming soon)
+
+## Solved Issues
+
+1) Fixed a bug where some charts would crash because of camera movement having a few problems.
 
 ## License Summary
 
