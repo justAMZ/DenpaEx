@@ -78,7 +78,7 @@ class FreeplaySectionSubstate extends MusicBeatSubstate {
             ease: FlxEase.expoOut
         });
 
-		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
+		bg = new FlxSprite().loadGraphic(Paths.image('menuDark'));
 		bg.scrollFactor.set(0, 0);
         bg.scale.set(0.003,0.003);
 		bg.screenCenter();

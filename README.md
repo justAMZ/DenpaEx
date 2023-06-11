@@ -5,13 +5,18 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/UmbratheUmbreon/PublicDenpaEngine)](https://github.com/UmbratheUmbreon/PublicDenpaEngine/pulls)
 ![GitHub All Downloads](https://img.shields.io/github/downloads/justAMZ/DenpaEx-Fork/total)
 ![GitHub Latest (Including Pre-releases)](https://img.shields.io/github/v/release/UmbratheUmbreon/PublicDenpaEngine?include_prereleases&label=latest%20version)
-[![Discord](https://img.shields.io/discord/993277169876873326?label=discord)](https://discord.gg/BFaMfmTNaa)
+[![DenpaEx Discord](https://img.shields.io/discord/993277169876873326?label=discord)](https://discord.gg/kPAGy7MuSF)
+[![Denpa Discord](https://img.shields.io/discord/993277169876873326?label=discord)](https://discord.gg/BFaMfmTNaa)
 
 # Friday Night Funkin': DenpaEx
 
 ## WARNING!
 
 ALL CREDIT GOES TO THE DENPA ENGINE DEVELOPERS! THIS FORK ONLY HAS A HANDFUL OF FEATURES THAT WOULDNT BE DONE WITHOUT THEIR HELP! THANKS TO AT AND THE DENPA ENGINE DISCORD SERVER FOR THE HELP!
+
+## Discord Invite
+
+DenpaEx Discord Server: https://discord.gg/BFaMfmTNaa
 
 ## Synopsis
 
@@ -64,7 +69,7 @@ Shygee - Additional Programmer
 ## Fork Features (Unfinished List!)
 
 1) Custom logo, name and icon.
-2) Permanent Dark Mode in MainMenuState.
+2) Permanent Dark Mode in MainMenuState & FreeplaySectionSubstate.
 3) Cool FreeplayState (literally just put the character icon before the song name :skull:).
 4) No Auto lag.
 5) Added back the Friday Night Funkin' background music.
