@@ -5359,7 +5359,7 @@ class PlayState extends MusicBeatState
 			rate = popUpScore(note);
 		}
 
-		if (!note.isSustainNote && !note.noteSplashDisabled && (['sick', 'perfect'].contains(rate) || note.forceNoteSplash))
+		if (!note.isSustainNote && !note.noteSplashDisabled && !cpuControlled && (['sick', 'perfect'].contains(rate) || note.forceNoteSplash))
 			spawnNoteSplashOnNote(note);
 
 		intendedHealth += note.hitHealth * healthGain;
