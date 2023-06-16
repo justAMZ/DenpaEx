@@ -244,8 +244,8 @@ class FreeplayState extends MusicBeatState
 		add(textBG);
 
 		final leTextSplit:Array<String> = [ //easier to read
-			"Press SPACE to listen to the Song. / Press CTRL to open the Gameplay Changers Menu.",
-			"Press COMMA to change the Section. / Press RESET to Reset your Score and Accuracy. / Press ALT to change the player Character."
+			"SPACE - Listen to the song / CTRL - Open the Gameplay Changers menu",
+			"COMMA - Change the section / R - Reset your score & accuracy / ALT - Change the player character"
 		];
 		final leText:String = '${leTextSplit[0]}\n${leTextSplit[1]}';
 		var size:Int = 16;
