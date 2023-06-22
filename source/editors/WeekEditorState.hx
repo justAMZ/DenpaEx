@@ -625,7 +625,7 @@ class WeekEditorFreeplayState extends MusicBeatState
 
 			var icon:HealthIcon = new HealthIcon(weekFile.songs[i][1]);
 			icon.sprTracker = songText;
-			icon.trackerOffsets = [-songText.width + -icon.width -10, 0];
+			icon.trackerOffsets = [-songText.width + -icon.width -25, 0];
 
 			// using a FlxGroup is too much fuss!
 			iconArray.push(icon);

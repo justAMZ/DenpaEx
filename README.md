@@ -71,17 +71,15 @@ Shygee - Additional Programmer
 1) Custom logo, name and icon.
 2) Permanent Dark Mode in MainMenuState & FreeplaySectionSubstate.
 3) Cool FreeplayState (literally just put the character icon before the song name :skull:).
-4) No Auto lag (removed score pop-ups, note splashes, ratings counter and score text while auto mode is on. now it looks cleaner and runs better.).
-5) Added back the Friday Night Funkin' background music in SoundTestState (will possibly try to make it so that it always plays when booting up the game, without the need to manually switch in that state).
+4) No Auto lag (removed score pop-ups, note splashes, ratings counter and score text while auto mode is on, now it looks cleaner and runs better).
+5) Added back the Friday Night Funkin' background music in SoundTestState (will possibly try to make it so that it always plays when booting up the game, without the need to manually switch to it in that state).
 6) Free Debug Mode script (made by Kevin Kuntz) in assets/preload/scripts.
 7) Added blank character ("null", watch out when typing the name as the game can possibly crash because of it).
 8) Hits Counter in ratings.
-9) Custom Score Text (best shit yall will EVER see :100:).
-10) Custom note density.
-11) Custom max zoom.
-12) Custom max BPM.
-13) Better Kade Score Pop-Up.
-14) The number 1 pop-up is replaced to be more noticeable (just image replacement lmao).
+9) Custom Score Text (best shit yall will EVER see frfr :100:).
+10) Custom max BPM, max zoom & note density.
+11) Better Kade Score Pop-Up.
+12) The number 1 pop-up is replaced to be more noticeable (just image replacement lmao).
 
 (more features coming soon)
 

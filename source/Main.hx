@@ -179,7 +179,7 @@ class Main extends Sprite
 
 		dateNow = dateNow.replace(" ", "_").replace(":", "'");
 
-		final path = "./crshhndlr/logs/" + "DenpaEngine_" + dateNow + ".txt";
+		final path = "./crshhndlr/logs/" + "DenpaEx_" + dateNow + ".txt";
 
 		for (stackItem in callStack)
 		{
