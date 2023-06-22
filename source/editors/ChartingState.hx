@@ -470,23 +470,23 @@ class ChartingState extends MusicBeatState
 		final text =
 		"Left Click - Add/Delete Note
 		\nRight Click - Select Note
-		\nW/S/Mouse Wheel - Change Time
-		\nA/Left | D/Right - Change Section
+		\nW / S / Mouse Wheel - Change Time
+		\nA / Left | D / Right - Change Section
 		\nZ/X - Change Zoom
 		\nQ/E - Change Note Sustain Length
 		\nSpace - Stop/Resume Song
 		\nEnter - Play Song at Current Section
-		\n(Hold) Shift + Enter - Play Song at Start
-		\nBackspace/Escape - Exit to Freeplay
-		\nL Bracket / R Bracket - Change Playback Rate
-		\n(Hold) Alt + Bracket - Reset Playback Rate
+		\nShift + Enter - Play Song at Start
+		\nBackspace/Esc - Exit to Freeplay
+		\nLeft Bracket / Right Bracket - Change Playback Rate
+		\nAlt + Bracket - Reset Playback Rate
 		\nDel - Clear Section
-		\n(Hold) Control + C - Copy Section
-		\n(Hold) Control + X - Cut Section
-		\n(Hold) Control + V - Paste Section
-		\n(Hold) Control + S - Save to Autosave
-		\n(Hold) Control + Left/Right - Shift Selected Note
-		\n(Hold) Shift - Move 4x Faster";
+		\nCtrl + C - Copy Section
+		\nCtrl + X - Cut Section
+		\nCtrl + V - Paste Section
+		\nCtrl + S - Save to Autosave
+		\nCtrl + Left/Right - Shift Selected Note
+		\nShift - 4x Speed";
 
 		var tipTextArray:Array<String> = text.split('\n');
 		for (i in 0...tipTextArray.length) {
