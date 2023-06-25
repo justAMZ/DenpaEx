@@ -48,7 +48,7 @@ class DiscordClient
 			details: "Starting up...",
 			state: null,
 			largeImageKey: 'sun',
-			largeImageText: "Denpa Engine"
+			largeImageText: "DenpaEx"
 		});
 	}
 

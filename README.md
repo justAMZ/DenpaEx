@@ -72,17 +72,23 @@ Shygee - Additional Programmer
 2) Permanent Dark Mode in MainMenuState & FreeplaySectionSubstate.
 3) Cool FreeplayState (literally just put the character icon before the song name :skull:).
 4) No Auto lag (removed score pop-ups, note splashes, ratings counter and score text while auto mode is on, now it looks cleaner and runs better).
-5) Added back the Friday Night Funkin' background music in SoundTestState (will possibly try to make it so that it always plays when booting up the game, without the need to manually switch to it in that state).
+5) Added back the Friday Night Funkin' background music in SoundTestState.
 6) Free Debug Mode script (made by Kevin Kuntz) in assets/preload/scripts.
 7) Added blank character ("null" is the character name).
-8) Hits Counter in ratings.
+8) Hits/Total Counter in ratings.
 9) Custom Score Text (best shit yall will EVER see frfr :100:).
 10) Custom max BPM, max zoom & note density.
-11) Better Kade Score Pop-Up.
+11) Better Kade score pop-up.
 12) The number 1 pop-up is replaced to be more noticeable (just image replacement lmao).
-13) Fixed some text here and there in some states.
+13) Added a Perfect score pop-up (edited the one from V.S. Dave & Bambi: Nullified)
+14) Fixed some text here and there in some states.
 
 (more features coming soon)
+
+## Upcoming Features
+
+1) Replace the background music with the original Friday Night Funkin' one, but without replacing freakyMenu.ogg or using the mods folder
+2) Adding the total song notes counter next to hits in the ratings counter.
 
 ## Solved Issues
 
